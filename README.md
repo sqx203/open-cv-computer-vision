@@ -1,4 +1,4 @@
-# open-cv-computer-vision
+# open-cv-vision
 This is a open cv python aruco code to identify the location information of an aruco tag
 
 Source code for this open-cv aruco tag locator can be find with:
