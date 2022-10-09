@@ -3,7 +3,7 @@ This is a open cv python aruco code to identify the location information of an a
 
 Source code for this open-cv aruco tag locator can be find with:
 
-https://github.com/sqx203/open-cv-computer-vision.git
+    https://github.com/sqx203/open-cv-computer-vision.git
 
 The open_cv_aruco_location can be visted using : 
 https://github.com/sqx203/open-cv-computer-vision/blob/85e5932fc0b853d5215ebcaf17732f5414f35872/open_cv_aruco_location.py
